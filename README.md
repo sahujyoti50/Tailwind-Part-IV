@@ -2,4 +2,4 @@
 Margins, Borders &amp; Padding in Tailwind CSS
  Preview:
  
- ![image](https://user-images.githubusercontent.com/15225177/222434449-b983ef06-7816-4156-924c-0044992d644f.png)
+![image](https://user-images.githubusercontent.com/15225177/222435354-96bed600-731b-4d2b-b14e-06b5d4664d21.png)
